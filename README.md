@@ -11,8 +11,10 @@ Funcionalidades:
 
 
 Instalación:
+
   1)para clonar el repositorio:
     en la consola de git:
+    
     ```git clone https://github.com/JulioAgustinT/Juego-Amigo-secreto.git```
     
   2)despues de esto solo se tiene que abrir el archivo index.html en el navegador para        usarlo!
